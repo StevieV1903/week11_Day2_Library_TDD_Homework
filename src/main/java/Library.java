@@ -23,7 +23,9 @@ public class Library {
         if (this.books.size() < this.capacity) {
             addBook(book);
         }
+    }
 
-
+    public void removeBook(Book book) {
+        this.books.remove(book);
     }
 }
