@@ -115,6 +115,14 @@
       <option name="presentableId" value="Default" />
       <updated>1581437582996</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added remove book method and tested.">
+      <created>1581451157883</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581451157883</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -127,5 +135,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added remove book method and tested." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added remove book method and tested." />
   </component>
 </project>
